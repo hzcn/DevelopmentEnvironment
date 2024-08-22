@@ -1,0 +1,1 @@
+XDEBUG配置都弄好了, phpstorm配置一下, 另外需要在php容器里安装xdebug, php7.4.33对应命令pecl install xdebug-3.0.3

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+baseDir=$(cd `dirname $0`; dirname `pwd`)
+
+chmod a+w ${baseDir}/php/logs
+
+docker-compose -p dnmp_hard -f ${baseDir}/compose/docker-compose.yml "$@"

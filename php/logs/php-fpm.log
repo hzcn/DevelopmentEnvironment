@@ -1,0 +1,472 @@
+[27-Jun-2024 16:11:16] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[27-Jun-2024 16:11:16] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[27-Jun-2024 16:11:16] NOTICE: fpm is running, pid 10
+[27-Jun-2024 16:11:16] NOTICE: ready to handle connections
+[27-Jun-2024 16:14:31] NOTICE: Terminating ...
+[27-Jun-2024 16:14:31] NOTICE: exiting, bye-bye!
+[27-Jun-2024 16:15:37] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[27-Jun-2024 16:15:37] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[27-Jun-2024 16:15:37] NOTICE: fpm is running, pid 10
+[27-Jun-2024 16:15:37] NOTICE: ready to handle connections
+[28-Jun-2024 09:19:32] NOTICE: Terminating ...
+[28-Jun-2024 09:19:33] NOTICE: exiting, bye-bye!
+[28-Jun-2024 09:20:03] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[28-Jun-2024 09:20:03] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[28-Jun-2024 09:20:03] NOTICE: fpm is running, pid 9
+[28-Jun-2024 09:20:03] NOTICE: ready to handle connections
+[28-Jun-2024 09:20:14] NOTICE: Terminating ...
+[28-Jun-2024 09:20:14] NOTICE: exiting, bye-bye!
+[28-Jun-2024 09:20:34] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[28-Jun-2024 09:20:34] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[28-Jun-2024 09:20:34] NOTICE: fpm is running, pid 10
+[28-Jun-2024 09:20:34] NOTICE: ready to handle connections
+[28-Jun-2024 09:38:27] NOTICE: Terminating ...
+[28-Jun-2024 09:38:27] NOTICE: exiting, bye-bye!
+[28-Jun-2024 09:43:48] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[28-Jun-2024 09:43:48] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[28-Jun-2024 09:43:48] NOTICE: fpm is running, pid 12
+[28-Jun-2024 09:43:49] NOTICE: ready to handle connections
+[28-Jun-2024 09:46:17] NOTICE: Terminating ...
+[28-Jun-2024 09:46:17] NOTICE: exiting, bye-bye!
+[28-Jun-2024 09:47:08] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[28-Jun-2024 09:47:08] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[28-Jun-2024 09:47:08] NOTICE: fpm is running, pid 9
+[28-Jun-2024 09:47:09] NOTICE: ready to handle connections
+[28-Jun-2024 10:40:54] NOTICE: Terminating ...
+[28-Jun-2024 10:40:54] NOTICE: exiting, bye-bye!
+[28-Jun-2024 10:41:17] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[28-Jun-2024 10:41:17] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[28-Jun-2024 10:41:17] NOTICE: fpm is running, pid 9
+[28-Jun-2024 10:41:17] NOTICE: ready to handle connections
+[28-Jun-2024 17:25:56] NOTICE: Terminating ...
+[28-Jun-2024 17:25:57] NOTICE: exiting, bye-bye!
+[01-Jul-2024 10:40:53] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[01-Jul-2024 10:40:53] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[01-Jul-2024 10:40:53] NOTICE: fpm is running, pid 9
+[01-Jul-2024 10:40:53] NOTICE: ready to handle connections
+[02-Jul-2024 14:45:51] NOTICE: Terminating ...
+[02-Jul-2024 14:45:52] NOTICE: exiting, bye-bye!
+[02-Jul-2024 14:52:02] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[02-Jul-2024 14:52:02] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[02-Jul-2024 14:52:02] NOTICE: fpm is running, pid 9
+[02-Jul-2024 14:52:02] NOTICE: ready to handle connections
+[04-Jul-2024 09:36:01] NOTICE: Terminating ...
+[04-Jul-2024 09:36:01] NOTICE: exiting, bye-bye!
+[04-Jul-2024 09:39:27] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 09:39:27] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 09:39:27] NOTICE: fpm is running, pid 9
+[04-Jul-2024 09:39:27] NOTICE: ready to handle connections
+[04-Jul-2024 09:41:54] NOTICE: Terminating ...
+[04-Jul-2024 09:41:54] NOTICE: exiting, bye-bye!
+[04-Jul-2024 10:40:44] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 10:40:44] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 10:40:44] NOTICE: fpm is running, pid 9
+[04-Jul-2024 10:40:44] NOTICE: ready to handle connections
+[04-Jul-2024 10:54:06] NOTICE: Terminating ...
+[04-Jul-2024 10:54:06] NOTICE: exiting, bye-bye!
+[04-Jul-2024 10:54:55] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 10:54:55] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 10:54:55] NOTICE: fpm is running, pid 9
+[04-Jul-2024 10:54:55] NOTICE: ready to handle connections
+[04-Jul-2024 11:01:50] NOTICE: Terminating ...
+[04-Jul-2024 11:01:50] NOTICE: exiting, bye-bye!
+[04-Jul-2024 11:07:20] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 11:07:20] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 11:07:20] NOTICE: fpm is running, pid 9
+[04-Jul-2024 11:07:20] NOTICE: ready to handle connections
+[04-Jul-2024 11:33:54] NOTICE: Terminating ...
+[04-Jul-2024 11:33:54] NOTICE: exiting, bye-bye!
+[04-Jul-2024 13:04:22] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 13:04:22] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 13:04:22] NOTICE: fpm is running, pid 9
+[04-Jul-2024 13:04:22] NOTICE: ready to handle connections
+[04-Jul-2024 13:46:18] NOTICE: Terminating ...
+[04-Jul-2024 13:46:18] NOTICE: exiting, bye-bye!
+[04-Jul-2024 13:46:55] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 13:46:55] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 13:46:55] NOTICE: fpm is running, pid 9
+[04-Jul-2024 13:46:55] NOTICE: ready to handle connections
+[04-Jul-2024 15:05:29] NOTICE: Terminating ...
+[04-Jul-2024 15:05:29] NOTICE: exiting, bye-bye!
+[04-Jul-2024 15:06:36] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:06:36] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:06:36] NOTICE: fpm is running, pid 9
+[04-Jul-2024 15:06:37] NOTICE: ready to handle connections
+[04-Jul-2024 15:08:29] NOTICE: Terminating ...
+[04-Jul-2024 15:08:29] NOTICE: exiting, bye-bye!
+[04-Jul-2024 15:08:51] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:08:51] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:08:51] NOTICE: fpm is running, pid 9
+[04-Jul-2024 15:08:51] NOTICE: ready to handle connections
+[04-Jul-2024 15:27:32] NOTICE: Terminating ...
+[04-Jul-2024 15:27:33] NOTICE: exiting, bye-bye!
+[04-Jul-2024 15:28:11] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:28:11] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:28:11] NOTICE: fpm is running, pid 9
+[04-Jul-2024 15:28:11] NOTICE: ready to handle connections
+[04-Jul-2024 15:32:31] NOTICE: Terminating ...
+[04-Jul-2024 15:32:31] NOTICE: exiting, bye-bye!
+[04-Jul-2024 15:33:27] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:33:27] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:33:27] NOTICE: fpm is running, pid 9
+[04-Jul-2024 15:33:27] NOTICE: ready to handle connections
+[04-Jul-2024 15:34:34] NOTICE: Terminating ...
+[04-Jul-2024 15:34:34] NOTICE: exiting, bye-bye!
+[04-Jul-2024 15:35:05] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:35:05] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:35:05] NOTICE: fpm is running, pid 9
+[04-Jul-2024 15:35:05] NOTICE: ready to handle connections
+[04-Jul-2024 15:35:30] NOTICE: Terminating ...
+[04-Jul-2024 15:35:30] NOTICE: exiting, bye-bye!
+[04-Jul-2024 15:36:20] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:36:20] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:36:20] NOTICE: fpm is running, pid 10
+[04-Jul-2024 15:36:21] NOTICE: ready to handle connections
+[04-Jul-2024 15:42:25] NOTICE: Terminating ...
+[04-Jul-2024 15:42:25] NOTICE: exiting, bye-bye!
+[04-Jul-2024 15:42:51] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:42:51] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:42:51] NOTICE: fpm is running, pid 9
+[04-Jul-2024 15:42:51] NOTICE: ready to handle connections
+[04-Jul-2024 15:53:13] NOTICE: Terminating ...
+[04-Jul-2024 15:53:13] NOTICE: exiting, bye-bye!
+[04-Jul-2024 15:54:12] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:54:12] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:54:12] NOTICE: fpm is running, pid 9
+[04-Jul-2024 15:54:12] NOTICE: ready to handle connections
+[04-Jul-2024 15:54:33] NOTICE: Terminating ...
+[04-Jul-2024 15:54:33] NOTICE: exiting, bye-bye!
+[04-Jul-2024 15:55:25] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:55:25] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 15:55:25] NOTICE: fpm is running, pid 9
+[04-Jul-2024 15:55:26] NOTICE: ready to handle connections
+[04-Jul-2024 16:30:57] NOTICE: Terminating ...
+[04-Jul-2024 16:30:57] NOTICE: exiting, bye-bye!
+[04-Jul-2024 16:31:38] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 16:31:38] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 16:31:38] NOTICE: fpm is running, pid 9
+[04-Jul-2024 16:31:38] NOTICE: ready to handle connections
+[04-Jul-2024 16:32:12] NOTICE: Terminating ...
+[04-Jul-2024 16:32:12] NOTICE: exiting, bye-bye!
+[04-Jul-2024 16:33:30] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 16:33:30] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 16:33:30] NOTICE: fpm is running, pid 9
+[04-Jul-2024 16:33:30] NOTICE: ready to handle connections
+[04-Jul-2024 16:35:16] NOTICE: Terminating ...
+[04-Jul-2024 16:35:16] NOTICE: exiting, bye-bye!
+[04-Jul-2024 16:38:41] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 16:38:41] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 16:38:41] NOTICE: fpm is running, pid 9
+[04-Jul-2024 16:38:41] NOTICE: ready to handle connections
+[04-Jul-2024 16:40:50] NOTICE: Terminating ...
+[04-Jul-2024 16:40:50] NOTICE: exiting, bye-bye!
+[04-Jul-2024 16:51:11] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 16:51:11] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 16:51:11] NOTICE: fpm is running, pid 9
+[04-Jul-2024 16:51:11] NOTICE: ready to handle connections
+[04-Jul-2024 16:58:47] NOTICE: Terminating ...
+[04-Jul-2024 16:58:47] NOTICE: exiting, bye-bye!
+[04-Jul-2024 16:59:43] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 16:59:43] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 16:59:43] NOTICE: fpm is running, pid 9
+[04-Jul-2024 16:59:43] NOTICE: ready to handle connections
+[04-Jul-2024 17:00:17] NOTICE: Terminating ...
+[04-Jul-2024 17:00:17] NOTICE: exiting, bye-bye!
+[04-Jul-2024 17:15:46] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 17:15:46] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 17:15:46] NOTICE: fpm is running, pid 9
+[04-Jul-2024 17:15:46] NOTICE: ready to handle connections
+[04-Jul-2024 17:20:30] NOTICE: Terminating ...
+[04-Jul-2024 17:20:30] NOTICE: exiting, bye-bye!
+[04-Jul-2024 17:21:01] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[04-Jul-2024 17:21:01] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[04-Jul-2024 17:21:01] NOTICE: fpm is running, pid 10
+[04-Jul-2024 17:21:01] NOTICE: ready to handle connections
+[04-Jul-2024 18:09:00] NOTICE: Terminating ...
+[04-Jul-2024 18:09:00] NOTICE: exiting, bye-bye!
+[05-Jul-2024 09:15:56] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[05-Jul-2024 09:15:56] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[05-Jul-2024 09:15:56] NOTICE: fpm is running, pid 10
+[05-Jul-2024 09:15:56] NOTICE: ready to handle connections
+[08-Jul-2024 11:30:36] NOTICE: Terminating ...
+[08-Jul-2024 11:30:37] NOTICE: exiting, bye-bye!
+[08-Jul-2024 13:05:28] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[08-Jul-2024 13:05:28] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[08-Jul-2024 13:05:28] NOTICE: fpm is running, pid 13
+[08-Jul-2024 13:05:28] NOTICE: ready to handle connections
+[08-Jul-2024 13:05:49] NOTICE: Terminating ...
+[08-Jul-2024 13:05:49] NOTICE: exiting, bye-bye!
+[08-Jul-2024 13:06:12] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[08-Jul-2024 13:06:12] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[08-Jul-2024 13:06:12] NOTICE: fpm is running, pid 9
+[08-Jul-2024 13:06:12] NOTICE: ready to handle connections
+[08-Jul-2024 13:13:58] NOTICE: Terminating ...
+[08-Jul-2024 13:13:58] NOTICE: exiting, bye-bye!
+[08-Jul-2024 15:03:54] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[08-Jul-2024 15:03:54] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[08-Jul-2024 15:03:54] NOTICE: fpm is running, pid 9
+[08-Jul-2024 15:03:54] NOTICE: ready to handle connections
+[08-Jul-2024 15:28:44] NOTICE: Terminating ...
+[08-Jul-2024 15:28:44] NOTICE: exiting, bye-bye!
+[08-Jul-2024 15:35:21] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[08-Jul-2024 15:35:21] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[08-Jul-2024 15:35:21] NOTICE: fpm is running, pid 9
+[08-Jul-2024 15:35:21] NOTICE: ready to handle connections
+[11-Jul-2024 11:20:38] NOTICE: Terminating ...
+[11-Jul-2024 11:20:40] NOTICE: exiting, bye-bye!
+[11-Jul-2024 11:27:26] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[11-Jul-2024 11:27:26] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[11-Jul-2024 11:27:26] NOTICE: fpm is running, pid 9
+[11-Jul-2024 11:27:26] NOTICE: ready to handle connections
+[11-Jul-2024 11:30:01] NOTICE: Terminating ...
+[11-Jul-2024 11:30:01] NOTICE: exiting, bye-bye!
+[11-Jul-2024 11:30:38] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[11-Jul-2024 11:30:38] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[11-Jul-2024 11:30:38] NOTICE: fpm is running, pid 9
+[11-Jul-2024 11:30:38] NOTICE: ready to handle connections
+[11-Jul-2024 15:27:38] NOTICE: Terminating ...
+[11-Jul-2024 15:27:38] NOTICE: exiting, bye-bye!
+[12-Jul-2024 09:41:57] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[12-Jul-2024 09:41:57] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[12-Jul-2024 09:41:57] NOTICE: fpm is running, pid 9
+[12-Jul-2024 09:41:57] NOTICE: ready to handle connections
+[19-Jul-2024 18:03:23] NOTICE: Terminating ...
+[19-Jul-2024 18:03:33] NOTICE: exiting, bye-bye!
+[22-Jul-2024 10:12:26] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[22-Jul-2024 10:12:26] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[22-Jul-2024 10:12:26] NOTICE: fpm is running, pid 10
+[22-Jul-2024 10:12:26] NOTICE: ready to handle connections
+[22-Jul-2024 11:08:14] NOTICE: Terminating ...
+[22-Jul-2024 11:08:15] NOTICE: exiting, bye-bye!
+[22-Jul-2024 13:37:54] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[22-Jul-2024 13:37:54] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[22-Jul-2024 13:37:54] NOTICE: fpm is running, pid 9
+[22-Jul-2024 13:37:54] NOTICE: ready to handle connections
+[22-Jul-2024 13:41:37] NOTICE: Terminating ...
+[22-Jul-2024 13:41:37] NOTICE: exiting, bye-bye!
+[22-Jul-2024 15:41:43] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[22-Jul-2024 15:41:43] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[22-Jul-2024 15:41:43] NOTICE: fpm is running, pid 10
+[22-Jul-2024 15:41:43] NOTICE: ready to handle connections
+[25-Jul-2024 16:56:30] NOTICE: Terminating ...
+[25-Jul-2024 16:56:32] NOTICE: exiting, bye-bye!
+[25-Jul-2024 16:57:00] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[25-Jul-2024 16:57:00] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[25-Jul-2024 16:57:00] NOTICE: fpm is running, pid 9
+[25-Jul-2024 16:57:00] NOTICE: ready to handle connections
+[31-Jul-2024 14:29:54] NOTICE: Terminating ...
+[31-Jul-2024 14:29:57] NOTICE: exiting, bye-bye!
+[31-Jul-2024 16:55:57] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[31-Jul-2024 16:55:57] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[31-Jul-2024 16:55:57] NOTICE: fpm is running, pid 9
+[31-Jul-2024 16:55:57] NOTICE: ready to handle connections
+[09-Aug-2024 09:39:03] NOTICE: Terminating ...
+[09-Aug-2024 09:39:06] NOTICE: exiting, bye-bye!
+[12-Aug-2024 09:09:00] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[12-Aug-2024 09:09:00] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[12-Aug-2024 09:09:00] NOTICE: fpm is running, pid 9
+[12-Aug-2024 09:09:00] NOTICE: ready to handle connections
+[16-Aug-2024 13:25:20] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[16-Aug-2024 13:25:20] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[16-Aug-2024 13:25:20] NOTICE: fpm is running, pid 9
+[16-Aug-2024 13:25:20] NOTICE: ready to handle connections
+[16-Aug-2024 13:38:05] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[16-Aug-2024 13:38:05] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[16-Aug-2024 13:38:05] NOTICE: fpm is running, pid 9
+[16-Aug-2024 13:38:05] NOTICE: ready to handle connections
+[19-Aug-2024 14:33:15] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 14:33:15] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 14:33:15] NOTICE: fpm is running, pid 10
+[19-Aug-2024 14:33:15] NOTICE: ready to handle connections
+[19-Aug-2024 14:40:51] NOTICE: Terminating ...
+[19-Aug-2024 14:40:51] NOTICE: exiting, bye-bye!
+[19-Aug-2024 14:41:16] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 14:41:16] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 14:41:16] NOTICE: fpm is running, pid 10
+[19-Aug-2024 14:41:16] NOTICE: ready to handle connections
+[19-Aug-2024 14:44:57] NOTICE: Terminating ...
+[19-Aug-2024 14:44:57] NOTICE: exiting, bye-bye!
+[19-Aug-2024 14:45:46] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 14:45:46] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 14:45:46] NOTICE: fpm is running, pid 10
+[19-Aug-2024 14:45:46] NOTICE: ready to handle connections
+[19-Aug-2024 14:52:40] NOTICE: Terminating ...
+[19-Aug-2024 14:52:40] NOTICE: exiting, bye-bye!
+[19-Aug-2024 14:53:12] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 14:53:12] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 14:53:12] NOTICE: fpm is running, pid 10
+[19-Aug-2024 14:53:12] NOTICE: ready to handle connections
+[19-Aug-2024 14:53:48] NOTICE: Terminating ...
+[19-Aug-2024 14:53:48] NOTICE: exiting, bye-bye!
+[19-Aug-2024 15:22:37] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:22:37] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:22:37] NOTICE: fpm is running, pid 10
+[19-Aug-2024 15:22:37] NOTICE: ready to handle connections
+[19-Aug-2024 15:27:03] NOTICE: Terminating ...
+[19-Aug-2024 15:27:03] NOTICE: exiting, bye-bye!
+[19-Aug-2024 15:27:24] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:27:24] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:27:24] NOTICE: fpm is running, pid 10
+[19-Aug-2024 15:27:24] NOTICE: ready to handle connections
+[19-Aug-2024 15:32:33] NOTICE: Terminating ...
+[19-Aug-2024 15:32:33] NOTICE: exiting, bye-bye!
+[19-Aug-2024 15:32:46] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:32:46] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:32:46] NOTICE: fpm is running, pid 10
+[19-Aug-2024 15:32:46] NOTICE: ready to handle connections
+[19-Aug-2024 15:36:31] NOTICE: Terminating ...
+[19-Aug-2024 15:36:31] NOTICE: exiting, bye-bye!
+[19-Aug-2024 15:36:38] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:36:38] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:36:38] NOTICE: fpm is running, pid 10
+[19-Aug-2024 15:36:38] NOTICE: ready to handle connections
+[19-Aug-2024 15:43:00] NOTICE: Terminating ...
+[19-Aug-2024 15:43:00] NOTICE: exiting, bye-bye!
+[19-Aug-2024 15:43:03] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:43:03] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:43:03] NOTICE: fpm is running, pid 10
+[19-Aug-2024 15:43:03] NOTICE: ready to handle connections
+[19-Aug-2024 15:48:30] NOTICE: Terminating ...
+[19-Aug-2024 15:48:30] NOTICE: exiting, bye-bye!
+[19-Aug-2024 15:48:38] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:48:38] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:48:38] NOTICE: fpm is running, pid 10
+[19-Aug-2024 15:48:38] NOTICE: ready to handle connections
+[19-Aug-2024 15:48:44] NOTICE: Terminating ...
+[19-Aug-2024 15:48:44] NOTICE: exiting, bye-bye!
+[19-Aug-2024 15:48:52] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:48:52] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:48:52] NOTICE: fpm is running, pid 10
+[19-Aug-2024 15:48:52] NOTICE: ready to handle connections
+[19-Aug-2024 15:48:54] NOTICE: Terminating ...
+[19-Aug-2024 15:48:54] NOTICE: exiting, bye-bye!
+[19-Aug-2024 15:49:00] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:49:00] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:49:00] NOTICE: fpm is running, pid 10
+[19-Aug-2024 15:49:00] NOTICE: ready to handle connections
+[19-Aug-2024 15:59:23] NOTICE: Terminating ...
+[19-Aug-2024 15:59:23] NOTICE: exiting, bye-bye!
+[19-Aug-2024 15:59:31] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:59:31] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 15:59:31] NOTICE: fpm is running, pid 10
+[19-Aug-2024 15:59:31] NOTICE: ready to handle connections
+[19-Aug-2024 16:05:40] NOTICE: Terminating ...
+[19-Aug-2024 16:05:40] NOTICE: exiting, bye-bye!
+[19-Aug-2024 16:05:48] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 16:05:48] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 16:05:48] NOTICE: fpm is running, pid 10
+[19-Aug-2024 16:05:48] NOTICE: ready to handle connections
+[19-Aug-2024 17:47:24] NOTICE: Terminating ...
+[19-Aug-2024 17:47:24] NOTICE: exiting, bye-bye!
+[19-Aug-2024 17:47:34] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[19-Aug-2024 17:47:34] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[19-Aug-2024 17:47:34] NOTICE: fpm is running, pid 9
+[19-Aug-2024 17:47:34] NOTICE: ready to handle connections
+[19-Aug-2024 18:40:30] NOTICE: Terminating ...
+[19-Aug-2024 18:40:30] NOTICE: exiting, bye-bye!
+[20-Aug-2024 13:03:50] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[20-Aug-2024 13:03:50] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[20-Aug-2024 13:03:50] NOTICE: fpm is running, pid 10
+[20-Aug-2024 13:03:50] NOTICE: ready to handle connections
+[20-Aug-2024 14:24:10] NOTICE: Terminating ...
+[20-Aug-2024 14:24:10] NOTICE: exiting, bye-bye!
+[20-Aug-2024 14:29:27] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[20-Aug-2024 14:29:27] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[20-Aug-2024 14:29:27] NOTICE: fpm is running, pid 10
+[20-Aug-2024 14:29:27] NOTICE: ready to handle connections
+[21-Aug-2024 16:39:23] NOTICE: Terminating ...
+[21-Aug-2024 16:39:23] NOTICE: exiting, bye-bye!
+[21-Aug-2024 16:39:36] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[21-Aug-2024 16:39:36] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[21-Aug-2024 16:39:36] NOTICE: fpm is running, pid 10
+[21-Aug-2024 16:39:36] NOTICE: ready to handle connections
+[21-Aug-2024 16:40:23] NOTICE: Terminating ...
+[21-Aug-2024 16:40:23] NOTICE: exiting, bye-bye!
+[21-Aug-2024 17:12:29] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[21-Aug-2024 17:12:29] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[21-Aug-2024 17:12:29] NOTICE: fpm is running, pid 9
+[21-Aug-2024 17:12:29] NOTICE: ready to handle connections
+[21-Aug-2024 17:40:26] NOTICE: Terminating ...
+[21-Aug-2024 17:40:26] NOTICE: exiting, bye-bye!
+[21-Aug-2024 17:48:51] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[21-Aug-2024 17:48:51] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[21-Aug-2024 17:48:51] NOTICE: fpm is running, pid 10
+[21-Aug-2024 17:48:51] NOTICE: ready to handle connections
+[21-Aug-2024 18:01:38] NOTICE: Terminating ...
+[21-Aug-2024 18:01:38] NOTICE: exiting, bye-bye!
+[21-Aug-2024 18:01:54] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[21-Aug-2024 18:01:54] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[21-Aug-2024 18:01:54] NOTICE: fpm is running, pid 10
+[21-Aug-2024 18:01:54] NOTICE: ready to handle connections
+[21-Aug-2024 18:06:05] NOTICE: Terminating ...
+[21-Aug-2024 18:06:05] NOTICE: exiting, bye-bye!
+[21-Aug-2024 18:06:12] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[21-Aug-2024 18:06:12] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[21-Aug-2024 18:06:12] NOTICE: fpm is running, pid 10
+[21-Aug-2024 18:06:12] NOTICE: ready to handle connections
+[21-Aug-2024 18:23:10] NOTICE: Terminating ...
+[21-Aug-2024 18:23:10] NOTICE: exiting, bye-bye!
+[21-Aug-2024 18:23:27] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[21-Aug-2024 18:23:27] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[21-Aug-2024 18:23:27] NOTICE: fpm is running, pid 10
+[21-Aug-2024 18:23:27] NOTICE: ready to handle connections
+[21-Aug-2024 18:26:44] NOTICE: Terminating ...
+[21-Aug-2024 18:26:44] NOTICE: exiting, bye-bye!
+[21-Aug-2024 10:33:27] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[21-Aug-2024 10:33:27] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[21-Aug-2024 10:33:27] NOTICE: fpm is running, pid 10
+[21-Aug-2024 10:33:27] NOTICE: ready to handle connections
+[21-Aug-2024 10:52:35] NOTICE: Terminating ...
+[21-Aug-2024 10:52:35] NOTICE: exiting, bye-bye!
+[21-Aug-2024 10:52:53] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[21-Aug-2024 10:52:53] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[21-Aug-2024 10:52:53] NOTICE: fpm is running, pid 9
+[21-Aug-2024 10:52:54] NOTICE: ready to handle connections
+[21-Aug-2024 10:59:06] NOTICE: Terminating ...
+[21-Aug-2024 10:59:06] NOTICE: exiting, bye-bye!
+[21-Aug-2024 10:59:18] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[21-Aug-2024 10:59:18] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[21-Aug-2024 10:59:18] NOTICE: fpm is running, pid 10
+[21-Aug-2024 10:59:18] NOTICE: ready to handle connections
+[22-Aug-2024 01:28:11] NOTICE: Terminating ...
+[22-Aug-2024 01:28:11] NOTICE: exiting, bye-bye!
+[22-Aug-2024 01:28:25] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[22-Aug-2024 01:28:25] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[22-Aug-2024 01:28:25] NOTICE: fpm is running, pid 10
+[22-Aug-2024 01:28:25] NOTICE: ready to handle connections
+[22-Aug-2024 01:29:29] NOTICE: Terminating ...
+[22-Aug-2024 01:29:29] NOTICE: exiting, bye-bye!
+[22-Aug-2024 01:33:48] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[22-Aug-2024 01:33:48] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[22-Aug-2024 01:33:48] NOTICE: fpm is running, pid 10
+[22-Aug-2024 01:33:48] NOTICE: ready to handle connections
+[22-Aug-2024 01:34:54] NOTICE: Terminating ...
+[22-Aug-2024 01:34:54] NOTICE: exiting, bye-bye!
+[22-Aug-2024 01:36:55] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[22-Aug-2024 01:36:55] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[22-Aug-2024 01:36:55] NOTICE: fpm is running, pid 10
+[22-Aug-2024 01:36:55] NOTICE: ready to handle connections
+[22-Aug-2024 01:37:09] NOTICE: Terminating ...
+[22-Aug-2024 01:37:09] NOTICE: exiting, bye-bye!
+[22-Aug-2024 01:51:16] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[22-Aug-2024 01:51:16] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[22-Aug-2024 01:51:16] NOTICE: fpm is running, pid 10
+[22-Aug-2024 01:51:16] NOTICE: ready to handle connections
+[22-Aug-2024 01:54:40] NOTICE: Terminating ...
+[22-Aug-2024 01:54:40] NOTICE: exiting, bye-bye!
+[22-Aug-2024 10:04:13] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[22-Aug-2024 10:04:13] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[22-Aug-2024 10:04:13] NOTICE: fpm is running, pid 10
+[22-Aug-2024 10:04:13] NOTICE: ready to handle connections
+[22-Aug-2024 10:20:25] NOTICE: Terminating ...
+[22-Aug-2024 10:20:25] NOTICE: exiting, bye-bye!
+[22-Aug-2024 10:20:32] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[22-Aug-2024 10:20:32] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[22-Aug-2024 10:20:32] NOTICE: fpm is running, pid 10
+[22-Aug-2024 10:20:32] NOTICE: ready to handle connections
+[22-Aug-2024 10:30:17] NOTICE: Terminating ...
+[22-Aug-2024 10:30:17] NOTICE: exiting, bye-bye!
+[22-Aug-2024 10:30:35] NOTICE: [pool lazy] 'user' directive is ignored when FPM is not running as root
+[22-Aug-2024 10:30:35] NOTICE: [pool lazy] 'group' directive is ignored when FPM is not running as root
+[22-Aug-2024 10:30:35] NOTICE: fpm is running, pid 10
+[22-Aug-2024 10:30:35] NOTICE: ready to handle connections

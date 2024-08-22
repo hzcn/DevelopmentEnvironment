@@ -1,0 +1,75 @@
+version: '3'
+
+networks:
+  hynet:
+    ipam:
+      config:
+        - subnet: 172.19.0.0/16
+
+services:
+     php:
+       build: ./php
+       image: php:7.4
+       hostname: lazy-api
+       networks:
+         hynet:
+           ipv4_address: 172.19.0.4
+           aliases:
+             - lazy.api
+       volumes:
+         - ../php/conf/php.ini:/usr/local/etc/php/php.ini
+         - ../php/conf/supervisord.conf:/etc/supervisor/supervisord.conf
+         - ../php/conf/supervisor.d:/etc/supervisor/conf.d:ro
+         - ../php/conf/php-fpm.conf:/usr/local/etc/php-fpm.conf:ro
+         - ../php/conf/php-fpm.d:/usr/local/etc/php-fpm.d:ro
+         - ../php/conf/crontab:/etc/crontab
+         - ../php/logs:/var/log/lazy
+         - ../php/logs:/var/log/php
+         - /Users/chenni/projectsInDNMP/svn_project:/project
+       links:
+         - redis
+       ports:
+         - 9000:9000
+       environment:
+           - TZ=Asia/Shanghai
+
+     nginx:
+        image: nginx:1.10
+        hostname: lazy-nginx
+        networks:
+          hynet:
+            ipv4_address: 172.19.0.5
+            aliases:
+              - lazy.nginx
+        volumes:
+          - ../nginx/conf/nginx.conf:/etc/nginx/nginx.conf:ro
+          - ../nginx/conf/conf.d:/etc/nginx/conf.d:ro
+          - ../nginx/logs:/var/log/nginx
+          - /Users/chenni/projectsInDNMP/svn_project:/project
+        links:
+          - php
+        ports:
+          - 80:80
+          - 443:443
+        environment:
+          - TZ=Asia/Shanghai
+     redis:
+       # Rf9AtkfyQEMXl5g
+       image: redis:3.2
+       hostname: lazy-data-redis
+       networks:
+         hynet:
+           ipv4_address: 172.19.0.7
+           aliases:
+             - lazy.data.redis
+       volumes:
+         - ../redis/redis.conf:/etc/redis/redis.conf:ro
+         - ../redis/data:/var/lib/redis
+         - ../redis/logs:/var/log/redis
+       command:
+         - redis-server
+         - /etc/redis/redis.conf
+       ports:
+         - 6379:6379
+       environment:
+         - TZ=Asia/Shanghai
